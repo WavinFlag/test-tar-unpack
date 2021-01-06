@@ -1,0 +1,10 @@
+{
+  "name": "test-tar-unpack",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "./bin/test.js"
+  },
+  "dependencies": {
+    "tar-pack": "^3.4.1"
+  }
+}
