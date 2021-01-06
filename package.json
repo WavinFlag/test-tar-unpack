@@ -2,6 +2,7 @@
   "name": "test-tar-unpack",
   "version": "0.0.1",
   "scripts": {
+    "clean": "rm -drf ./data/unpacked",
     "test": "./bin/test.js"
   },
   "dependencies": {
